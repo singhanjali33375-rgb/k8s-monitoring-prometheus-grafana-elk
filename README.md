@@ -93,3 +93,6 @@ Grafana, and ELK Stack for performance analysis, centralized logging, and
 issue detection in cloud-native applications.
 🎯 Interview One-Line Explanation
 “Prometheus handles metrics, Grafana visualizes performance, and ELK Stack centralizes logs for fast debugging.”
+Implemented real-time Kubernetes monitoring and observability using Prometheus,
+Grafana, and ELK Stack for performance analysis, centralized logging, and
+issue detection in cloud-native applications.
